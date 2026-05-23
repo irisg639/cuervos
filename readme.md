@@ -1,1 +1,2 @@
 El somos cuervos viene por la UTVT mi amada escuela jiji,este proyecto usa node.js y el modelo mvc 
+Los de tic son la mejor carrera 
